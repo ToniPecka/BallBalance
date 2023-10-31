@@ -1,2 +1,1 @@
-# main
-start of the project
+Ball balancing thing controlled by Pico, with servo and Ultrasound sensor
